@@ -39,6 +39,6 @@ outputs, actual outputs, and any issues fixed.
 - Add more robust sensor error handling.
 
 ## Simulation
-Add your Wokwi simulation link here.
+https://wokwi.com/projects/477844325633723393
 
 
